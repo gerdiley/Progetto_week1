@@ -141,8 +141,15 @@ i{
     color: white;
 }
 
-footer ul, footer p{
-    padding: 20px;
-    text-decoration: none;
+footer ul{
+
+    list-style: none;
 }
+
+hr{
+    text-align: center;
+    margin: 10px 100px;
+}
+
+
 
